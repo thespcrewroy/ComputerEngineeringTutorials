@@ -12,5 +12,8 @@
 ## Microprocessor
 * **Rasberry Pi:** a low-cost single-board computer used forlearning programming
 
+## Embedded Systems Programming
+* **F':** an open-source flight software framework developed by NASA for building embedded and spaceflight systems
+
 # Quantum Computing
-* * **Q#:** programming language created my Microsoft for quantum computing apps and algorithms
+* **Q#:** programming language created my Microsoft for quantum computing apps and algorithms
