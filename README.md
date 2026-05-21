@@ -11,3 +11,6 @@
 
 ## Microprocessor
 * **Rasberry Pi:** a low-cost single-board computer used forlearning programming
+
+# Quantum Computing
+* * **Q#:** programming language created my Microsoft for quantum computing apps and algorithms
