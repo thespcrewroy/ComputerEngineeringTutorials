@@ -17,3 +17,4 @@
 
 # Quantum Computing
 * **Q#:** programming language created my Microsoft for quantum computing apps and algorithms
+* **Qskit:** open-source quantum computing SDK developed by IBM for creating, simulating, and running quantum algorithms
