@@ -7,6 +7,14 @@
 ## Microprocessor
 * **Rasberry Pi:** a low-cost single-board computer used forlearning programming
 
+## Instruction Set Architectures (ISAs)
+* **Reduced Instruction Set Computer (RISC):** uses a small optimized set of simple instructions to improve execution speed and efficiency
+    * **Microprocessor without Interlocked Pipelined Stages (MIPS):** ISA for efficient processor performance
+    * **Advanced RISC Machine (ARM):** power-efficient architecture for smartphones, embedded systems, and modern computing devices
+* **Complex Instruction Set Computer (CISC):** uses a large and complex set of instructions to reduce the number of operations per task
+    * **x86:** a widely used CPU architecture developed by Intel that powers most personal computers
+
+
 ## Embedded Systems Programming
 * **F':** an open-source flight software framework developed by NASA for building embedded and spaceflight systems
 
