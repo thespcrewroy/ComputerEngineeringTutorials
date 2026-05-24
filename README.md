@@ -30,6 +30,6 @@
 * **AutoCAD:** A computer-aided design (CAD) software used for creating precise 2D drawings and 3D models
 * **TinkerCAD:** beginner-friendly online 3D design and electronics simulation tool used for modeling, coding, and 3D printing
 
-# Quantum Computing
+## Quantum Computing
 * **Q#:** programming language created my Microsoft for quantum computing apps and algorithms
 * **Qskit:** open-source quantum computing SDK developed by IBM for creating, simulating, and running quantum algorithm
