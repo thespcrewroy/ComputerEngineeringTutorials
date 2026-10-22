@@ -44,7 +44,6 @@
     - **[CUDA (Compute Unified Device Architecture)](https://docs.nvidia.com/cuda/)**: NVIDIA’s parallel computing platform for accelerated processing on GPUs
 - **Numerical Computing**
     - **[MATLAB](https://www.mathworks.com/help/matlab/)**: numerical computing environment for math, simulations, and data visualization
-- **[Thetawise](https://thetawise.ai/)**: AI math problem solver
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
 </small>
