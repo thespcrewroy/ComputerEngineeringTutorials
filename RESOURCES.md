@@ -26,7 +26,7 @@
 ## Competitions
 * [31 January - 2 February] [MIT iQuHACK](https://www.iquise.mit.edu/iQuHACK/2024-02-02): MIT's annual quantum computing hackathon
 * [1 September - 15 November] [Putnam Competition](https://maa.org/math-competitions/william-lowell-putnam-mathematical-competition): the premier undergraduate mathematics competition in North America
-* [[4 September] Chicago Quantum Exchange Big Q Hackathon](https://chicagoquantum.org/event/big-q-hackathon-cqe-and-quantx): quantum computing hackathon from the Chicago Quantum Exchange and QuantX
+* [[4 September] Chicago Quantum Exchange Big Q Hackathon](https://chicagoquantum.org/event/big-q-hackathon-cqe-and-quantx): quantum computing hackathon
 
 ## Conferences & Events
 * [18 April] [Electrical Computer Engineering Expo](https://docs.google.com/document/d/1OLZj3epyOCUNBn-9Q-UkEbgwLTqd1XDYL7gCR3vIIUA/edit#heading=h.28zdyfynhnel): UGA's showcase of electrical and computer engineering projects
