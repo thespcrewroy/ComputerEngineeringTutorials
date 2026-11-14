@@ -4,16 +4,15 @@
 * [Amateur Radio License](https://www.arrl.org/getting-licensed)
 
 ## College Courses
-* Computer Architecture (CSCI 4720E)
-* CUDA C Programming on GPUs for High Performance Computing (CSCI 4130)
-* Introduction to Quantum Computation (CSCI 4612)
-* Introduction to Robotics (CSCI 4350)
-* Real-Time Scheduling for the Internet of Things (CSCI 4740)
 * Scientific Computing (CSCI 2150-2150L)
+* CUDA C Programming on GPUs for High Performance Computing (CSCI 4130)
+* Introduction to Robotics (CSCI 4350)
+* Introduction to Quantum Computation (CSCI 4612)
+* Computer Architecture (CSCI 4720E)
+* Real-Time Scheduling for the Internet of Things (CSCI 4740)
 * Ubiquitous Computing (CSCI 4770)
-* Physics
-    * Introduction to Computational Physics (PHYS 4601)
-    * Introduction to Scientific Programming, Data Analysis, and Visualization (PHYS 2001)
+* Introduction to Computational Physics (PHYS 4601)
+* Introduction to Scientific Programming, Data Analysis, and Visualization (PHYS 2001)
 
 ## Communities
 * [Create Labs](https://create.uga.edu/): for students to grow their analytical skills under the guidance of those more experienced
