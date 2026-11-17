@@ -1,9 +1,9 @@
 # Computer Engineering Resources
 
 ## Certifications
-* [Amateur Radio License](https://www.arrl.org/getting-licensed)
-* [Fundamentals of Engineering / Engineer in Training (FE / EIT)](https://ncees.org/exams/fe-exam/)
-* [Professional Engineer (PE)](https://ncees.org/exams/pe-exam/)
+* Amateur Radio License
+* Fundamentals of Engineering / Engineer in Training (FE / EIT)
+* Professional Engineer (PE)
 
 ## College Courses
 * Scientific Computing (CSCI 2150-2150L)
