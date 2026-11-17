@@ -9,9 +9,11 @@
 * Computer Systems Engineering
 * Electrical Engineering
 * Math
+* Pysics
 
 ## College Minors
 * Math
+* Pysics
 
 ## College Certificates
 * Computer Science
