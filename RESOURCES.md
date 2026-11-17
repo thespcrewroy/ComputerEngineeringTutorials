@@ -18,6 +18,7 @@
 ## College Certificates
 * Computer Science
 * E-Mobility
+* New Media
 
 ## College Courses
 * Scientific Computing (CSCI 2150-2150L)
