@@ -5,6 +5,15 @@
 * Fundamentals of Engineering / Engineer in Training (FE / EIT)
 * Professional Engineer (PE)
 
+## College Majors
+* Computer Systems Engineering
+* Electrical Engineering
+
+## College Minors
+
+## College Certificates
+* Computer Science
+
 ## College Courses
 * Scientific Computing (CSCI 2150-2150L)
 * CUDA C Programming on GPUs for High Performance Computing (CSCI 4130)
