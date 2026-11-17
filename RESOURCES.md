@@ -28,8 +28,20 @@
 * Computer Architecture (CSCI 4720E)
 * Real-Time Scheduling for the Internet of Things (CSCI 4740)
 * Ubiquitous Computing (CSCI 4770)
-* Introduction to Computational Physics (PHYS 4601)
+* Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics (PHYS 1211-1211L)
+* Electricity and Magnetism, Optics, Modern Physics (PHYS 1212-1212L)
+* Advanced Introductory Physics (PHYS 1311-1311L)
 * Introduction to Scientific Programming, Data Analysis, and Visualization (PHYS 2001)
+* Introductory Electronics (PHYS 3320-3320L)
+* Modern Optics (PHYS 3330-3330L)
+* Modern Physics (PHYS 3700)
+* Mathematical Methods In Physics (PHYS 3900)
+* Theoretical Mechanics (PHYS 4101)
+* Electricity and Magnetism I (PHYS 4201)
+* Thermodynamics and Kinetic Theory
+* Introductory Quantum Mechanics I (PHYS 4701)
+* Introductory Quantum Mechanics II (PHYS 4702)
+* Introduction to Computational Physics (PHYS 4601)
 
 ## Communities
 * [Create Labs](https://create.uga.edu/): for students to grow their analytical skills under the guidance of those more experienced
@@ -58,4 +70,4 @@
 - [MIT Quantum Information Science I (8.370x)](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/): MIT's open quantum computing course
 - [Q-CTRL Black Opal](https://q-ctrl.com/black-opal): interactive platform for learning quantum computing visually
 - [Qiskit Community](https://qiskit.org/events): open-source community and events for Qiskit quantum developers
-- [Qiskit Global Summer School (2020)](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020): IBM's course on quantum computing and quantum hardware
+- [Qiskit Global Summer School (2020)](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020): IBM's course on quantum computing and hardware
