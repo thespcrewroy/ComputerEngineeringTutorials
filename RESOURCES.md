@@ -8,8 +8,10 @@
 ## College Majors
 * Computer Systems Engineering
 * Electrical Engineering
+* Math
 
 ## College Minors
+* Math
 
 ## College Certificates
 * Computer Science
