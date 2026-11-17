@@ -38,7 +38,7 @@
 * Mathematical Methods In Physics (PHYS 3900)
 * Theoretical Mechanics (PHYS 4101)
 * Electricity and Magnetism I (PHYS 4201)
-* Thermodynamics and Kinetic Theory
+* Thermodynamics and Kinetic Theory (PHYS 4300)
 * Introductory Quantum Mechanics I (PHYS 4701)
 * Introductory Quantum Mechanics II (PHYS 4702)
 * Introduction to Computational Physics (PHYS 4601)
