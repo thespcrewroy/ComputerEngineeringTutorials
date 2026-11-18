@@ -16,20 +16,20 @@
 * Pysics
 
 ## College Certificates
-* Computer Science
 * E-Mobility
-* New Media
 
 ## College Courses
-* Scientific Computing (CSCI 2150-2150L)
+* ⭐️ Scientific Computing (CSCI 2150-2150L)
 * CUDA C Programming on GPUs for High Performance Computing (CSCI 4130)
 * Introduction to Robotics (CSCI 4350)
 * Introduction to Quantum Computation (CSCI 4612)
-* Computer Architecture (CSCI 4720E)
+* ⭐️ Computer Architecture (CSCI 4720E)
 * Real-Time Scheduling for the Internet of Things (CSCI 4740)
 * Ubiquitous Computing (CSCI 4770)
-* Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics (PHYS 1211-1211L)
-* Electricity and Magnetism, Optics, Modern Physics (PHYS 1212-1212L)
+* Zhenlin An Special Topics in Computing: Computing Mobile Computing & IoT (CSCI 4900)
+* Multi Robot Systems (CSCI 8535)
+* ⭐️ Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics (PHYS 1211-1211L)
+* ⭐️ Electricity and Magnetism, Optics, Modern Physics (PHYS 1212-1212L)
 * Advanced Introductory Physics (PHYS 1311-1311L)
 * Introduction to Scientific Programming, Data Analysis, and Visualization (PHYS 2001)
 * Introductory Electronics (PHYS 3320-3320L)
