@@ -28,6 +28,7 @@
 * Ubiquitous Computing (CSCI 4770)
 * Zhenlin An Special Topics in Computing: Computing Mobile Computing & IoT (CSCI 4900)
 * Multi Robot Systems (CSCI 8535)
+* Introduction to E-Mobility (ENGR 3620)
 * ⭐️ Principles of Physics for Scientists and Engineers-Mechanics, Waves, Thermodynamics (PHYS 1211-1211L)
 * ⭐️ Electricity and Magnetism, Optics, Modern Physics (PHYS 1212-1212L)
 * Advanced Introductory Physics (PHYS 1311-1311L)
