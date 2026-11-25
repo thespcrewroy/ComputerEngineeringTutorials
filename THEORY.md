@@ -8,6 +8,8 @@
     - **VRF (Variable Refrigerant Flow)**: an HVAC system that varies refrigerant flow to heat and cool zones individually
 - **CAD (Computer-Aided Design)**: using software to create precise 2D drawings and 3D models
 - **Drone Mapping**: turning aerial drone photos into maps and 3D models of a site through photogrammetry
+- **EDA (Electronic Design Automation)**: software for designing and verifying microchips and circuit boards
+    - **Floor Planning**: arranging blocks on a chip to maximize speed and minimize wire length
 - **FEA (Finite Element Analysis)**: simulating how parts respond to forces, heat, and vibration
 
 ## Computer Architecture
