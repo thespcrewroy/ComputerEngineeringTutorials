@@ -4,8 +4,9 @@
 - **3D Rendering**: generating photorealistic images or animations from 3D models
 - **BIM (Building Information Modeling)**: intelligent 3D building models that hold design, construction, and operation data
 - **Building Energy Modeling**: simulating a building's energy use to evaluate its design and efficiency
+    - **HVAC (Heating, Ventilation, and Air Conditioning)**: systems that heat, cool, and ventilate buildings
+        - **VRF (Variable Refrigerant Flow)**: an HVAC system that varies refrigerant flow to heat and cool zones individually
     - **LEED (Leadership in Energy and Environmental Design)**: the most widely used green building certification system
-    - **VRF (Variable Refrigerant Flow)**: an HVAC system that varies refrigerant flow to heat and cool zones individually
 - **CAD (Computer-Aided Design)**: using software to create precise 2D drawings and 3D models
 - **Drone Mapping**: turning aerial drone photos into maps and 3D models of a site through photogrammetry
 - **EDA (Electronic Design Automation)**: software for designing and verifying microchips and circuit boards
@@ -38,6 +39,8 @@
     - **RC Circuit**: a resistor and capacitor in series with a voltage source
         - **Time Constant (τ)**: R times C, the time for a charging capacitor to reach about 63% of the source voltage
     - **Resistor**: a component that limits the flow of current
+    - **Transistor**: a semiconductor component that switches or amplifies electric signals
+        - **MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)**: the most common transistor, used as a switch
 - **Flight Software**: software that controls spacecraft and other embedded systems in real time
 - **GPIO (General-Purpose Input/Output)**: programmable pins that let a board read sensors and control components
 - **IoT (Internet of Things)**: physical devices with sensors and software that exchange data over the internet
