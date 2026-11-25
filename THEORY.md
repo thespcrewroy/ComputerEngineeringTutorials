@@ -20,10 +20,13 @@
         - **RISC-V**: an open, royalty-free RISC ISA used in research, education, and a growing range of chips
 
 ## Computer Hardware
+- **CPU (Central Processing Unit)**: the general-purpose processor that executes a computer's instructions
 - **Desktop Tower**: an upright computer case that houses the motherboard, CPU, GPU, storage, and power supply
+- **GPU (Graphics Processing Unit)**: a processor built for massively parallel math, used for graphics and deep learning
 - **Storage Device**: hardware that stores data persistently
     - **HDD (Hard Disk Drive)**: stores data magnetically on spinning platters; cheap per terabyte but slower
     - **SSD (Solid-State Drive)**: stores data on flash memory with no moving parts; much faster than an HDD
+- **TPU (Tensor Processing Unit)**: Google's chip designed specifically for machine learning workloads
 
 ## Embedded Systems
 - **Amateur Radio**: licensed, non-commercial use of radio frequencies for communication and experimentation
