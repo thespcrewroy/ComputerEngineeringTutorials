@@ -42,6 +42,7 @@
 ## Scientific Computing
 - **GPU Computing**
     - **[CUDA (Compute Unified Device Architecture)](https://docs.nvidia.com/cuda/)**: NVIDIA’s parallel computing platform for accelerated processing on GPUs
+    - **[MPS (Metal Performance Shaders)](https://developer.apple.com/documentation/metalperformanceshaders)**: Apple's GPU compute framework, used by PyTorch on Apple Silicon
 - **Numerical Computing**
     - **[MATLAB](https://www.mathworks.com/help/matlab/)**: numerical computing environment for math, simulations, and data visualization
 

@@ -16,6 +16,7 @@
         - **x86**: Intel's widely used CPU architecture that powers most personal computers
     - **RISC (Reduced Instruction Set Computer)**: uses a small optimized set of simple instructions
         - **ARM (Advanced RISC Machine)**: power-efficient architecture for smartphones, embedded systems, etc.
+            - **Apple Silicon**: Apple's ARM-based M-series chips used in modern Macs
         - **MIPS (Microprocessor without Interlocked Pipelined Stages)**: RISC ISA widely used to teach processor design
         - **RISC-V**: an open, royalty-free RISC ISA used in research, education, and a growing range of chips
 
