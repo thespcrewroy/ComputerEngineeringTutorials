@@ -33,6 +33,11 @@
 
 ## Embedded Systems
 - **Amateur Radio**: licensed, non-commercial use of radio frequencies for communication and experimentation
+- **Electronic Circuit**: components connected so current flows through them to do a job
+    - **Capacitor**: a component that stores electric charge, its voltage rising gradually as it charges
+    - **RC Circuit**: a resistor and capacitor in series with a voltage source
+        - **Time Constant (τ)**: R times C, the time for a charging capacitor to reach about 63% of the source voltage
+    - **Resistor**: a component that limits the flow of current
 - **Flight Software**: software that controls spacecraft and other embedded systems in real time
 - **GPIO (General-Purpose Input/Output)**: programmable pins that let a board read sensors and control components
 - **IoT (Internet of Things)**: physical devices with sensors and software that exchange data over the internet
