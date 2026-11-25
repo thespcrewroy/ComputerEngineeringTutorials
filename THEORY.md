@@ -39,8 +39,10 @@
     - **RC Circuit**: a resistor and capacitor in series with a voltage source
         - **Time Constant (τ)**: R times C, the time for a charging capacitor to reach about 63% of the source voltage
     - **Resistor**: a component that limits the flow of current
+        - **E24 Series**: the standard set of 24 stocked resistor values per decade
     - **Transistor**: a semiconductor component that switches or amplifies electric signals
         - **MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)**: the most common transistor, used as a switch
+    - **Voltage Divider**: two resistors in series that output a fraction of the input voltage from between them
 - **Flight Software**: software that controls spacecraft and other embedded systems in real time
 - **GPIO (General-Purpose Input/Output)**: programmable pins that let a board read sensors and control components
 - **IoT (Internet of Things)**: physical devices with sensors and software that exchange data over the internet
